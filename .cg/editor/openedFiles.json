@@ -1,0 +1,21 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/WorkoutTracker/app/src/main/java/com/example/workouttracker/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 27,
+          "index": 9289,
+          "line": 264
+        },
+        "start": {
+          "column": 27,
+          "index": 9289,
+          "line": 264
+        }
+      }
+    }
+  ],
+  "projectPath": "/storage/emulated/0/CodeOnTheGoProjects/WorkoutTracker",
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/WorkoutTracker/app/src/main/java/com/example/workouttracker/MainActivity.kt"
+}
